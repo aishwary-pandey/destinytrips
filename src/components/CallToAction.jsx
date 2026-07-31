@@ -1,4 +1,6 @@
+import { useNavigate } from "react-router-dom";
 function CallToAction() {
+  const navigate = useNavigate();
   return (
     <section className="bg-blue-600 text-white py-20">
       <div className="max-w-4xl mx-auto text-center px-6">
@@ -10,7 +12,10 @@ function CallToAction() {
           Book your dream vacation today and create memories that last a lifetime.
         </p>
 
-        <button className="mt-8 bg-white text-blue-600 px-8 py-3 rounded-xl font-semibold hover:bg-gray-100 transition">
+        <button
+          onClick={() => navigate("/booking")}
+          className="mt-8 rounded-xl bg-white px-8 py-3 font-semibold text-blue-600 transition hover:bg-gray-100"
+        >
           Book Now
         </button>
       </div>

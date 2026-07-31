@@ -47,7 +47,7 @@ function Booking() {
         className="max-w-xl mx-auto bg-white shadow-lg rounded-xl p-8"
       >
 
-        <h1 className="text-4xl font-bold text-center">
+        <h1 className="heading-font text-4xl font-bold text-center">
           Book Your Trip
         </h1>
 
