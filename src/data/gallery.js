@@ -4,12 +4,12 @@ import manaliImage from "../assets/images/Manali.jpeg";
 import kashmirImage from "../assets/images/Kashmir.webp";
 import keralaImage from "../assets/images/Kerala.jpg";
 import ladakhImage from "../assets/images/Ladakh.webp";
-import andamanImage from "../assets/images/andaman.jpg";
-import munnarImage from "../assets/images/munnar.jpeg";
-import jaisalmerImage from "../assets/images/jaisalmer.jpg";
-import udaipurImage from "../assets/images/udaipur.jpg";
+import andamanImage from "../assets/images/Andaman.jpg";
+import munnarImage from "../assets/images/Munnar.jpeg";
+import jaisalmerImage from "../assets/images/Jaisalmer.jpg";
+import udaipurImage from "../assets/images/Udaipur.jpg";
 import coorgImage from "../assets/images/coorg.webp";
-import amritsarImage from "../assets/images/amritsar.webp";
+import amritsarImage from "../assets/images/Amritsar.webp";
 const galleryItems = [
   {
     title: "Golden Beaches",
