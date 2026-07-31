@@ -3,12 +3,12 @@ import manaliimage from "../assets/images/Manali.jpeg";
 import kashmirimage from "../assets/images/Kashmir.webp";
 import keralaimage from "../assets/images/Kerala.jpg";
 import ladakhimage from "../assets/images/Ladakh.webp";
-import andamanImage from "../assets/images/andaman.jpg";
-import munnarImage from "../assets/images/munnar.jpeg";
-import jaisalmerImage from "../assets/images/jaisalmer.jpg";
-import udaipurImage from "../assets/images/udaipur.jpg";
+import andamanImage from "../assets/images/Andaman.jpg";
+import munnarImage from "../assets/images/Munnar.jpeg";
+import jaisalmerImage from "../assets/images/Jaisalmer.jpg";
+import udaipurImage from "../assets/images/Udaipur.jpg";
 import coorgImage from "../assets/images/coorg.webp";
-import amritsarImage from "../assets/images/amritsar.webp";
+import amritsarImage from "../assets/images/Amritsar.webp";
 import MeghalayaImage from "../assets/images/Meghalaya.jpg";
 
 const destinations = [
